@@ -1,0 +1,49 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Aliucord Backport",
+        "author": "HardcodedCat",
+        "updater": "https:\/\/raw.githubusercontent.com\/HardcodedCat\/Backport-Theme\/main\/backport.json"
+    },
+    "background": {},
+    "fonts": {
+        "ginto_bold": "https:\/\/raw.githubusercontent.com\/HardcodedCat\/AliucordBackport\/main\/fonts\/ggsans-Bold.ttf",
+        "whitney_bold": "https:\/\/raw.githubusercontent.com\/HardcodedCat\/AliucordBackport\/main\/fonts\/ggsans-Bold.ttf",
+        "whitney_medium": "https:\/\/raw.githubusercontent.com\/HardcodedCat\/AliucordBackport\/main\/fonts\/ggsans-Medium.ttf",
+        "sourcecodepro_semibold": "https:\/\/raw.githubusercontent.com\/HardcodedCat\/AliucordBackport\/main\/fonts\/SourceCodePro-Semibold.ttf",
+        "ginto_regular": "https:\/\/raw.githubusercontent.com\/HardcodedCat\/AliucordBackport\/main\/fonts\/ggsans-Normal.ttf",
+        "ginto_medium": "https:\/\/raw.githubusercontent.com\/HardcodedCat\/AliucordBackport\/main\/fonts\/ggsans-ExtraBold.ttf",
+        "whitney_semibold": "https:\/\/raw.githubusercontent.com\/HardcodedCat\/AliucordBackport\/main\/fonts\/ggsans-Semibold.ttf"
+    },
+    "simple_colors": {},
+    "colors": {
+        "primary_100": -394759,
+        "primary_100_alpha_30": -855051,
+        "primary_100_alpha_60": -1315345,
+        "primary_200": -1841688,
+        "primary_200_alpha_30": -2367775,
+        "primary_200_alpha_60": -2959911,
+        "primary_300": -3880498,
+        "primary_300_alpha_30": -4867391,
+        "primary_300_alpha_60": -7038044,
+        "primary_400": -8354674,
+        "primary_400_alpha_30": -9605256,
+        "primary_400_alpha_60": -10723738,
+        "primary_500": -11644840,
+        "primary_500_alpha_30": -12500150,
+        "primary_500_alpha_60": -13092288,
+        "primary_600": -13552840,
+        "primary_600_alpha_60": -14474200,
+        "primary_700": -14803166,
+        "primary_700_alpha_60": -15329511,
+        "primary_800": -15658476,
+        "primary_800_alpha_60": -16382457,
+        "primary_900": -16645630,
+        "primary_dark_760": -1725947355,
+        "scrollbar_thumb_light": 1296978008,
+        "status_red_500_alpha_20": 871187013,
+        "transparent": 0
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
